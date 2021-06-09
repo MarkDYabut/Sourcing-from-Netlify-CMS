@@ -37,7 +37,7 @@ export default function Blog({ data }) {
             >
               <h3>{node.frontmatter.title}</h3>
               <ArticleDate>{node.frontmatter.date}</ArticleDate>
-              <ReadingTime>Reading time: {node.timeToRead}</ReadingTime>
+              {/* <ReadingTime>Reading time: {node.timeToRead}</ReadingTime> */}
               <p>{node.excerpt}</p>
             </Link>
           </Content>
