@@ -7,4 +7,4 @@ This is about reaching potential. Can you imagine the very best person you can b
 
 
 
-If you believe you've done your best, you got some reflection to do.
+If you believe you've done your best, you've got some reflection to do.
