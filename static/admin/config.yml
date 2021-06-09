@@ -43,3 +43,29 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Links"
+        name: "links"
+        file: "content/pages/links.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "links-page",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/links" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Index"
+        name: "index"
+        file: "content/pages/index.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "index-page",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/index" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }

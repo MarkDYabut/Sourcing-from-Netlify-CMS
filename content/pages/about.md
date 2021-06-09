@@ -1,6 +1,6 @@
 ---
 template: about-page
 slug: /about
-title: Title
+title: About
 ---
-Body
+Body - About
