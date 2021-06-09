@@ -3,7 +3,6 @@ import styled from "@emotion/styled"
 import React from "react"
 
 const Content = styled.div`
-  max-width: 860px;
   padding: 1rem 1.0875rem;
   font-size: 1.2rem;
 `
@@ -53,7 +52,7 @@ const Links = () => {
   return (
     <SiteHeader>
       <Content>
-        <h3></h3>
+        <h4>Internal Links</h4>
         <SpanNavLink to="/blog">Blog</SpanNavLink>
         <SpanNavLink to="/about">About</SpanNavLink>
       </Content>
