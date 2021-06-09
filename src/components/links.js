@@ -40,6 +40,7 @@ const NavLink = styled(Link)`
 
 const SpanNavLink = styled(NavLink)`
   display: block;
+  margin: 1rem;
 `
 
 const SiteHeader = styled.header`
