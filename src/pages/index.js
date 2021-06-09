@@ -8,15 +8,6 @@ export default function Home({ data }) {
     <>
       <Layout>
         <h1>hello</h1>
-        {data.allMarkdownRemark.edges.map(({ node }) => (
-          <div key={node.id}>
-            <Link to={node.frontmatter.slug}>
-              <h3>{node.frontmatter.title}</h3>
-              <p>{node.excerpt}</p>
-              <p>{node.timeToRead}</p>
-            </Link>
-          </div>
-        ))}
       </Layout>
     </>
   )

@@ -14,9 +14,15 @@ public_folder: /assets
 collections:
   - name: blog
     label: Blog
-    folder: blog
+    folder: content/blog-posts
     create: true
     fields:
+      - {
+          label: "Template",
+          name: "template",
+          widget: "hidden",
+          default: "blog-post",
+        }
       - { name: slug, label: Slug }
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
@@ -26,7 +32,7 @@ collections:
     files:
       - label: "About"
         name: "about"
-        file: "src/content/pages/about.md"
+        file: "content/pages/about.md"
         fields:
           - {
               label: "Template",
