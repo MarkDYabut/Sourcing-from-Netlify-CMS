@@ -1,7 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
 import { Link, graphql } from "gatsby"
-import Header from "../components/header"
 import { css } from "@emotion/core"
 import styled from "@emotion/styled"
 
@@ -24,7 +23,6 @@ export default function Blog({ data }) {
   return (
     <>
       <Layout>
-        <Header />
         <h1>Blog</h1>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <Content key={node.id}>

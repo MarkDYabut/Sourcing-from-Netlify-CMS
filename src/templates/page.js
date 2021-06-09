@@ -7,7 +7,6 @@ export default function Page({ data }) {
   const post = data.markdownRemark
   return (
     <Layout>
-      <Header />
       <h1>{post.frontmatter.title}</h1>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
     </Layout>

@@ -4,8 +4,10 @@ import React from "react"
 
 const Content = styled.div`
   max-width: 860px;
-  padding: 1rem 1.0875rem;
+  padding: 1.0875rem;
   font-size: 1.2rem;
+  margin: 0 auto;
+  width: 100%;
 `
 
 const NavLink = styled(Link)`
@@ -17,6 +19,7 @@ const NavLink = styled(Link)`
   border-radius: 5px;
   border-color: #e7e7e7;
   padding: 4px 8px;
+  margin: 4px;
   color: black;
 
   ::after {
@@ -43,18 +46,21 @@ const HomeLink = styled(NavLink)`
 `
 
 const SiteHeader = styled.header`
-  background: transparent;
+  background: white;
   display: flex;
   align-content: center;
   justify-content: center;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  max-width: 860px;
 `
 
 const Header = () => (
   <SiteHeader>
     <Content>
       <NavLink to="/">Home</NavLink>
-      <NavLink to="/blog">Blog</NavLink>
       <NavLink to="/about">About</NavLink>
+      <NavLink to="/blog">Blog</NavLink>
     </Content>
   </SiteHeader>
 )
