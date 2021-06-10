@@ -6,14 +6,20 @@ title: It's not the weight that weighs you down
 ---
 It's how you carry it.
 
-* we all have a weight on our back
-* we all have our privileges, but you don't ever know what's going on psychologically
-* normalize, because it's all part of the human experience
-* embrace vulnerability
+We all have a weight on our back.
 
-  * it allows for the most growth
-* it's unfortunate that we don't know what going on in others
-* our vulnerability is our signal; just like a baby's cry
-* if we do not expose our vulnerabilities we cannot grow past them
-* hiding from emotions, pretending to be strong; is not strength
-* we gain strength by exposing our vulnerabilities and overcoming them
+We all have our privileges, but you don't ever know what's going on psychologically.
+
+Normalize, because it's all part of the human experience.  
+
+Embrace vulnerability it allows for the most growth.
+
+It's unfortunate that we don't know what going on in others.
+
+Our vulnerability is our signal; just like a baby's cry.
+
+If we do not expose our vulnerabilities we cannot grow past them.
+
+Hiding from emotions, pretending to be strong; is not strength.
+
+We gain strength by exposing our vulnerabilities and overcoming them.
