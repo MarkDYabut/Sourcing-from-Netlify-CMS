@@ -8,6 +8,8 @@ It's how you carry it.
 
 We all have a weight on our back.
 
+![Weight](https://images.pexels.com/photos/4753897/pexels-photo-4753897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 "Weight")
+
 We all have our privileges, but you don't ever know what's going on psychologically.
 
 Normalize, because it's all part of the human experience.  
