@@ -1,7 +1,7 @@
 ---
 template: blog-post
 slug: fuck-the-comfort-zone
-date: 2021-06-09T01:14:22.162Z
+date: 2021-06-02T02:07:20.430Z
 title: Fuck the comfort zone
 ---
 "There’s no growth in the comfort zone and no comfort in the growth zone."
