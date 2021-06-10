@@ -1,7 +1,7 @@
 ---
 template: blog-post
 slug: its-not-the-weight-that-weighs-you-down
-date: 2021-06-09T04:18:03.658Z
+date: 2021-06-04T04:18:03.658Z
 title: It's not the weight that weighs you down
 ---
 It's how you carry it.
