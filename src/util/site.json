@@ -3,7 +3,6 @@
     "title": "Mark Yabut",
     "titleTemplate": "%s",
     "siteUrl": "https://www.markyabut-foundation.netlify.app",
-    "image": "https://images.pexels.com/photos/1029596/pexels-photo-1029596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "iconimage": "/assets/gatsby-icon.png"
   },
   "ga": "UA-176069437-2"
